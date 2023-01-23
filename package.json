@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "homepage": "https://github.com/bkinaan/emabrrasing-for-you"
   },
   "scripts": {
     "predeploy": "npm run build",
